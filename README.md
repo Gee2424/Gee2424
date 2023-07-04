@@ -1,35 +1,35 @@
-# Hello, I'm [Gerald] 👋
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+GERALD;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# Hi, I'm Gerald 👋
 
-![Software Engineer](https://path-to-your-gif-image.gif)
+I am a software engineer who believes in the power of technology to help people and the planet. I'm currently honing my coding skills and I'm open to collaborating on software engineering projects.
 
-I'm a Software Engineer with over 5 years of experience in the industry. I specialize in full-stack development, with a focus on JavaScript and Python. I have a passion for creating efficient and user-friendly software solutions.
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gee2424&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gee2424&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Angular, Vue, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** C, Python, Shell
+- **Tools:** Git
 
 ## 🎓 Education
 
-- Bachelor of Science in Computer Science, XYZ University, 2018
+- Software Engineering Student at ALX
 
-## 💼 Work Experience
-
-- **Software Engineer** at **ABC Company** (from 2018 to 2021)
-  - Developed and maintained web applications using JavaScript and Python
-  - Collaborated with cross-functional teams to define, design, and ship new features
-  - Worked on bug fixing and improving application performance
-
-- **Senior Software Engineer** at **DEF Company** (from 2021 to present)
-  - Leading a team of software engineers to deliver high-quality software products
-  - Implementing agile methodologies to ensure timely and effective project delivery
-  - Conducting code reviews and mentoring junior developers
 
 ## 📬 Get in Touch
 
-- GitHub: [github.com/Gee2424](https://github.com/Gee2424)
 - LinkedIn: [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
+- Twitter: [twitter.com/your-twitter-handle](https://twitter.com/your-twitter-handle)
 - Email: [your-email@example.com](mailto:your-email@example.com)
+
+## 🌐 Q&A Websites
+
+- StackOverflow: [stackoverflow.com/users/your-user-id](https://stackoverflow.com/users/your-user-id)
+- GitHub: [github.com/Gee2424](https://github.com/Gee2424)
+- Quora: [quora.com/profile/your-profile-name](https://quora.com/profile/your-profile-name)
+- Reddit: [reddit.com/user/your-username](https://reddit.com/user/your-username)
+- Stack Exchange: [stackexchange.com/users/your-user-id](https://stackexchange.com/users/your-user-id)
+- Code Project: [codeproject.com/Members/your-username](https://www.codeproject.com/Members/your-username)
+- Programmers Heaven: [programmersheaven.com/user/your-username](http://www.programmersheaven.com/user/your-username)
 
