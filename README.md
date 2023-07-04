@@ -1,16 +1,24 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Gee2424)
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+GERALD;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 # Hi, I'm Gerald 👋
+<h3 align="center">A passionate Software Engineer</h3>
+<img align="" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Gee2424&label=Profile%20views&color=0e75b6&style=flat" alt="Gee2424" /> </p>
+
 
 I am a software engineer who believes in the power of technology to help people and the planet. I'm currently honing my coding skills and I'm open to collaborating on software engineering projects.
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gee2424&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gee2424&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gee2424&&theme=tokyonight" alt="Gee2424" /></p>
+
 
 ## 🚀 Skills
 
 - **Languages:** C, Python, Shell
 - **Tools:** Git
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gee2424&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gee2424" /></p>
 
 ## 🎓 Education
 
@@ -19,19 +27,18 @@ I am a software engineer who believes in the power of technology to help people 
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
-- Twitter: [twitter.com/your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- [LinkedIn](https://linkedin.com/in/your-linkedin-username)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Email](mailto:your-email@example.com)
 
 ## 🌐 Q&A Websites
 
-- StackOverflow: [stackoverflow.com/users/your-user-id](https://stackoverflow.com/users/your-user-id)
-- GitHub: [github.com/Gee2424](https://github.com/Gee2424)
-- Quora: [quora.com/profile/your-profile-name](https://quora.com/profile/your-profile-name)
-- Reddit: [reddit.com/user/your-username](https://reddit.com/user/your-username)
-- Stack Exchange: [stackexchange.com/users/your-user-id](https://stackexchange.com/users/your-user-id)
-- Code Project: [codeproject.com/Members/your-username](https://www.codeproject.com/Members/your-username)
-- Programmers Heaven: [programmersheaven.com/user/your-username](http://www.programmersheaven.com/user/your-username)
+- [StackOverflow](https://stackoverflow.com/users/your-user-id)
+- [GitHub](https://github.com/Gee2424)
+- [Quora](https://quora.com/profile/your-profile-name)
+- [Reddit](https://stackexchange.com/users/your-user-id)
+- [Code Project](https://www.codeproject.com/Members/your-username)
+- [Programmers Heaven](http://www.programmersheaven.com/user/your-username)
 
 
 
