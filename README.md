@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, I'm [Gerald] 👋
 
-<!--
-**Gee2424/Gee2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Software Engineer](https://path-to-your-gif-image.gif)
 
-Here are some ideas to get you started:
+I'm a Software Engineer with over 5 years of experience in the industry. I specialize in full-stack development, with a focus on JavaScript and Python. I have a passion for creating efficient and user-friendly software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks/Libraries:** React, Angular, Vue, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
+
+## 🎓 Education
+
+- Bachelor of Science in Computer Science, XYZ University, 2018
+
+## 💼 Work Experience
+
+- **Software Engineer** at **ABC Company** (from 2018 to 2021)
+  - Developed and maintained web applications using JavaScript and Python
+  - Collaborated with cross-functional teams to define, design, and ship new features
+  - Worked on bug fixing and improving application performance
+
+- **Senior Software Engineer** at **DEF Company** (from 2021 to present)
+  - Leading a team of software engineers to deliver high-quality software products
+  - Implementing agile methodologies to ensure timely and effective project delivery
+  - Conducting code reviews and mentoring junior developers
+
+## 📬 Get in Touch
+
+- GitHub: [github.com/Gee2424](https://github.com/Gee2424)
+- LinkedIn: [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
