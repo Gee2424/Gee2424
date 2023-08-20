@@ -23,7 +23,7 @@ I am a software engineer who believes in the power of technology to help people 
 ## 🎓 Education
 
 - Software Engineering Student at ALX
-
+<a href="https://app.daily.dev/GEE2424"><img src="https://api.daily.dev/devcards/35b6fcf652744c20ba70da02d0d86b04.png?r=szj" width="400" alt="Gee's Dev Card"/></a>
 
 ## 📬 Get in Touch
 
